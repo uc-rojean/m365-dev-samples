@@ -17,8 +17,24 @@ This helps keep my **Microsoft 365 Developer E5 subscription active** while expl
 - `graph-list-users.js` → List all users in the tenant.
 - `graph-send-message.js` → Send a message to a Teams channel.
 - `graph-send-mail.js` → Send an email via Outlook using Graph API.
+- `graph-create-event.js` → Create a calendar event with Teams link.
 - *(Upcoming)* Planner API examples → Create and list tasks.
-- *(Upcoming)* Calendar API examples → Create events programmatically.
+
+---
+
+## 🔹 Day 09 – Microsoft Graph API Activities
+As part of my Microsoft 365 Developer Program renewal, I completed the following advanced activities using Graph API:
+
+- 🗂 **Planner**: Created tasks via `/planner/tasks` endpoint
+- ✉️ **Outlook Mail**: Sent email using `/me/sendMail`
+- 📅 **Calendar**: Created event with Teams link via `/me/events`
+- 📝 **GitHub**: Committed updated scripts and README to track dev signals
+
+These activities demonstrate real usage of Microsoft 365 workloads and help maintain my Developer E5 subscription.
+
+### 📂 New Scripts Added
+- `graph-send-mail.js` — Sends Outlook email via Graph API
+- `graph-create-event.js` — Creates calendar event with Teams link
 
 ---
 
@@ -35,6 +51,7 @@ This helps keep my **Microsoft 365 Developer E5 subscription active** while expl
      node graph-get-profile.js
      node graph-list-teams.js
      node graph-send-mail.js
+     node graph-create-event.js
      ```
 
 3. **Graph Explorer Quick Calls**
@@ -59,5 +76,3 @@ To demonstrate **real Microsoft 365 development activity** across multiple workl
 ### 🌐 Stay Connected
 ⭐ If this repo helps you, **give it a star** and share your feedback!  
 📬 Questions? Reach out via Microsoft Graph Explorer.
-
----
