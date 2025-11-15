@@ -13,3 +13,17 @@ Continuing my renewal journey, here are the Day 11 activities:
 
 📁 **GitHub**:  
 - Updated README.md with Day 11 activity summary
+
+## 📌 Day 12 – Microsoft 365 Developer Activities
+
+💬 **Teams**  
+- Posted a channel message via `/teams/{team-id}/channels/{channel-id}/messages`
+
+📁 **SharePoint**  
+- Uploaded a file to Group drive root via `/groups/{group-id}/drive/root:/...:/content`
+
+🔁 **Power Automate**  
+- Manually triggered Bible Verse / Daily Greeting flow (succeeded)
+
+🔎 **Bonus**  
+- Continued daily Graph signals to maintain renewal activity
