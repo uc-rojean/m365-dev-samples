@@ -27,3 +27,8 @@ Continuing my renewal journey, here are the Day 11 activities:
 
 🔎 **Bonus**  
 - Continued daily Graph signals to maintain renewal activity
+
+## 📌 Day 13 – Microsoft 365 Developer Activities
+✅ Created Planner task via Graph API  
+✅ Sent Outlook email via Graph API  
+✅ Optimized GitHub repo visibility and tags  
