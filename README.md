@@ -32,3 +32,9 @@ Continuing my renewal journey, here are the Day 11 activities:
 ✅ Created Planner task via Graph API  
 ✅ Sent Outlook email via Graph API  
 ✅ Optimized GitHub repo visibility and tags  
+
+## 📌 Day 14 – Microsoft 365 Developer Activities
+**Teams** — Posted a channel message (with/without @mention)  
+**SharePoint** — Uploaded a text file with meaningful content  
+**Power Automate** — Manually triggered Bible Verse / Greeting flow (Succeeded)  
+**GitHub** — Made repo public and added Microsoft 365/Graph API tags
