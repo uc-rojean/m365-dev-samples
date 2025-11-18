@@ -38,3 +38,16 @@ Continuing my renewal journey, here are the Day 11 activities:
 **SharePoint** — Uploaded a text file with meaningful content  
 **Power Automate** — Manually triggered Bible Verse / Greeting flow (Succeeded)  
 **GitHub** — Made repo public and added Microsoft 365/Graph API tags
+
+## 📌 Day 15 – Microsoft 365 Developer Activities
+**Planner**
+- Created a task in “Tasks by Planner and To Do” and assigned it to myself
+
+**Outlook**
+- Sent an email via `/me/sendMail`
+
+**SharePoint**
+- Created `Day15/` and uploaded `Day15-Update.txt`
+
+**Bonus**
+- Queried Planner tasks, Messages, and Recent files for telemetry
